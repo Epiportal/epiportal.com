@@ -1,4 +1,4 @@
-# EpiPortal's Resource Repository
+# EpiPortal's Resource Repository - Since 2012
 
 You can [Pull-Request](https://help.github.com/articles/creating-a-pull-request/) this repository with:
 * new/updated/compressed resources
@@ -23,3 +23,26 @@ find . -size +50MB | sed 's|^\./||g' | cat >> .gitignore; awk '!NF || !seen[$0]+
 ## One more word
 
 Contribute! :)
+
+
+
+## EPITA related links
+
+* [Algo (prepa)](https://algo-td.infoprepa.epita.fr/)
+* [Wiki prog (prepa)](https://wiki-prog.infoprepa.epita.fr/index.php/EPITA:Programmation)
+* Archi (prepa)
+  * [S1](http://debug-pro.com/epita/s1/en/)
+  * [S2](http://debug-pro.com/epita/s2/en/)
+  * [S3](http://debug-pro.com/epita/s3/en/)
+  * [S4](http://debug-pro.com/epita/s4/en/)
+
+* [Ionis X](https://ionisx.com/)
+
+* [Mastercorp](http://mastercorp.epita.eu)
+
+* [Chronos](http://chronos.epita.net)
+* [EpiMAP](http://map.epita.eu/)
+* News Reader/Notifier for EPITA news
+  * [Website, NG-Notifier](https://ng-notifier.42portal.com/)
+  * [Android application](https://play.google.com/store/apps/details?id=com.bertet.francois.epinotifier&hl=en_US)
+  * [iOS application](https://itunes.apple.com/us/app/epireader/id1244757421?mt=8&ign-mpt=uo%3D4)
