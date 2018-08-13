@@ -1,0 +1,40 @@
+   ***************************
+   *                         *
+   *  MAFI - Notes de cours  *
+   *                         *
+   ***************************
+
+
+
+* Outline
+=========
+ - Authors
+ - Brief
+ - Usage
+
+
+
+* Authors
+=========
+ - Julien "Snooze92" Lehuen     <lehuen_j@epita.fr>
+
+
+
+* Brief
+=======
+ - Here is the tarball composition:
+        mafi-notes-lehuen
+          |-- mafi-notes-lehuen-exercices.ods
+          |-- mafi-notes-lehuen.pdf
+          `-- README
+
+ - The .pdf file contains all the material I typed during the MAFI (Bases Mathématiques pour les Métiers de la Finance) course.
+ - The .ods file contains the solution of two exercices : 5.1. and 5.2. in the .pdf file.
+
+
+
+* Usage
+=======
+ - Reading the pdf file again and again until the exam starts might be pretty helpful.
+ - Redoing the exercices might help too.
+ - You can send the tarball to anyone who could need it.

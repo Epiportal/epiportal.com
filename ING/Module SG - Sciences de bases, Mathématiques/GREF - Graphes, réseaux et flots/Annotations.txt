@@ -1,0 +1,35 @@
+Erreur p3 : manque un "-1" sur la colonne u3 à la ligne C
+            un peu plus bas remplacer le 2 par 1
+
+Puissance booléene : a.b + c.d + ...
+		      et ou et
+
+p5 : on ajoute d'abord la matrice identité
+     O1 ne change rien
+     O2 : on regarde les lignes sur lesquelles il y a un 1 colonne 2 sur la matrice précédente (ici lignes 1 et 2)
+          et on reporte les 1 de la ligne 2 (car O2) sur toutes ces lignes (en jaune)
+     O3 : en souligné (ligne 3 reporté en lignes 1, 2, 3 et 4)
+     On s'arrête à 5
+     O4 et O5 ne changent rien
+
+p6 : définitions supplémentaire :
+     (simplement) connexe : s'il existe 1 chaine (chemin non orienté) qui relie 2 sommets quelconques -> ici oui
+     fortement connexe : s'il existe 1 chemin reliant 2 sommets quelconques -> ici oui car on a un circuit hamiltonien
+
+p7 : D1 : pour 4 on voit que la somme entre les 2 valeurs en ligne et colonne 1 est -infini, donc on change pas la valeur 4 qui est + grande,
+          de même pour toutes les valeurs car la 1ère colonne est remplis de -infini
+     D2 : on voit que la colonne 2 a une valeur 3, en faisant la somme avec la ligne 2, on trouve 5, qui est + grand que
+          4 et -infini, donc on change les valeurs (en gras). On remplace aussi les valeurs dans l'autre matrice par la valeur
+          de la matrice précédente située à la même colonne mais à la ième ligne
+     Ainsi de suite on repère pour chaque ième colonne et ième ligne les valeurs à sommer(en jaune)
+     pour modifier l'élément correspondant de la matrice si la valeur est + grande
+     Sur l'autre matrice on remplace la valeur correspodante par la valeur à la ième ligne à la matrice précédente
+     D5 : la dernière ligne est remplie de -infini donc la matrice est la même
+     La valeur du chemin le plus long reliant A à E est 10 (+ grande valeur dans la matrice D5)
+     Le chemin est : A -> C -> B -> D -> E trouvé de cette manière :
+     On part de E l'arrivée, son prédécesseur est la valeur correspondante dans la 2è matrice à la même colonne sur la 1ère ligne: 4 -> D
+     On regarde le prédecesseur de D à la colonne 4 : 2 -> B
+     Pour B colonne 2 : 3 -> C
+     Pour C colonne 3 : 1 -> A
+
+Suite du cours : polycopié chapitre 4
