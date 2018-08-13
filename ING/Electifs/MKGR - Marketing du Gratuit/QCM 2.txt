@@ -1,0 +1,216 @@
+﻿Avec ça j'ai eu 80
+
+Question 1 :
+For economists, a market is a place?
+
+Response:
+True XXXXX
+False
+
+Question 2 :
+Multiple choice question
+For economists, a market is a place where "x" and "y" meet.  Who/What are "x" and "y"?
+
+Groups of suppliers
+Groups of consumers
+Demand
+The employees
+Supply
+
+Response:
+Groups of suppliers
+Groups of consumers
+Supply XXXXX
+Demand XXXXX
+The employees
+
+Question 3 :
+Multiple choice question
+Which postulate(s) belong to the definition of a market in Economic Sciences:
+
+Competition is free and perfect
+Buyers have needs and will pay to satisfy those
+The nature of the products exchanged, their quantities and prices stem from that meeting point
+Increase in supply will drive a decrease in value
+Price levels are related to production rates
+
+Response:
+Increase in supply will drive a decrease in value
+Competition is free and perfect XXXXXX
+Price levels are related to production rates
+Buyers have needs and will pay to satisfy those
+The nature of the products exchanged, their quantities and prices stem from that meeting point XXXXXXX
+
+Question 4 :
+Multiple choice question
+What does this curve represent?
+
+The supply curve
+The demand curve
+A pressure on prices
+The equilibrium point
+
+Response:
+The equilibrium point
+The supply curve   XXXXX (on sait pas)
+The demand curve
+A pressure on prices
+
+Question 5 :
+Multiple choice question
+How do you read this curve?
+
+The higher the prices, the more I want to sell
+None of the proposed solutions
+The lower the prices, the more I want to buy
+The lower the prices, the more I want to sell
+The higher the prices, the more I want to buy
+
+Response:
+The lower the prices, the more I want to buy   XXXXXX (logique normalement)
+The lower the prices, the more I want to sell 
+The higher the prices, the more I want to sell
+None of the proposed solutions
+The higher the prices, the more I want to buy
+
+Question 6 :
+Multiple choice question
+What do the prices in green on this price chart illustrate?
+
+A rush to New York for the Holiday Season.
+An upward pressure on prices for the tickets on airplanes from NY to Paris during the holiday season
+An excess of available seats on airplanes on flights from NY to Paris during the holiday season.
+A shortage of available seats on airplanes on flights from NY to Paris during the holiday season.
+An increase in demand for airplane tickets from NY to Paris during the holiday season.
+
+Response: RANDOM
+An upward pressure on prices for the tickets on airplanes from NY to Paris during the holiday season
+A rush to New York for the Holiday Season.
+An increase in demand for airplane tickets from NY to Paris during the holiday season.
+A shortage of available seats on airplanes on flights from NY to Paris during the holiday season.
+An excess of available seats on airplanes on flights from NY to Paris during the holiday season.
+
+Question 7 :
+True/false question
+In Marketing, does the notion of market include a place?
+
+Response:
+True
+False  XXXXX
+
+Question 8 :
+Multiple choice question
+Check all the components of the Market definition in Marketing.
+
+To purchase
+A product or service
+To exchange
+Group(s) of consumers
+A place
+
+Response:
+To purchase XXXXXXX
+A product or service XXXXXX
+Group(s) of consumers XXXXXXX
+To exchange
+A place
+
+Question 9 :
+Multiple choice question
+What must you first identify to define a market in Marketing?
+
+A product or a service
+A purchase
+A need XXXXXXXX
+Group(s) of consumers
+A place
+
+Response:
+A product or a service
+Group(s) of consumers
+A need
+A purchase
+A place
+
+Question 10 :
+Multiple choice question
+When looking at average number of text messages sent per month by state, which characteristic(s) is(are) used here to define a market?
+
+Demographics
+Competitors’ Products
+Client types
+Geographical criteria
+Levels of production/distribution
+
+Response:
+Demographics
+Levels of production/distribution XXXXXX
+Competitors’ Products XXXXXXXXX
+Geographical criteria XXXXXX
+Client types XXXXXX
+
+Question 11 :
+Reorganize the five levels of Maslow’s hierarchy of needs, starting with the needs without which no human being can survive for long.
+
+Subquestion	Possible match
+Physiological Needs
+Actualization Needs
+Security Needs
+Social Needs
+Esteem Needs
+
+Response:
+Physiological Needs 1
+Actualization Needs 5
+Security Needs 2
+Social Needs 3
+Esteem Needs 4
+
+
+Question 12 :
+For each block of the buying behavior matrix assign the corresponding behavior.
+
+Subquestion	Possible match
+Significant differences between Brands + High Involvement
+Few differences between Brands + High Involvement
+Significant differences between Brands + Low Involvement
+Few differences between Brands + Low Involvement
+
+Response:
+Significant differences between Brands + High Involvement  : complex buying
+Few differences between Brands + High Involvement          : dissonance
+Significant differences between Brands + Low Involvement   : variety seeking behavior
+Few differences between Brands + Low Involvement           : habitual buying
+
+Question 13 :
+Reorganize in the proper order the five steps of the consumer buying process
+
+Subquestion	Possible match
+Purchase decision
+Evaluation of alternatives
+Problem recognition
+Postpurchase behavior
+Information search
+
+Response:
+Purchase decision 4
+Evaluation of alternatives 3
+Problem recognition 1
+Postpurchase behavior 5
+Information search 2
+
+Question 14:
+According to Philip Kotler, value is the subjective worth of something, and it depends upon scarcity and desirability.
+
+Response:
+True XXXXX aucune idée
+False
+
+Question 15 :
+The Value Proposition is the set of functionalities or product attributes built into the product / service and their respective benefits to the client?
+
+Response:
+True  XXXXX aucune idée
+False
+
+

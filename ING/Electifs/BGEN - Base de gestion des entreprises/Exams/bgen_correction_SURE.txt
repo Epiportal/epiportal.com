@@ -1,0 +1,40 @@
+﻿01 - B
+02 - A Il certifie les comptes
+03 - B Produit finis est le resultat d'une production de l'entreprise => un revendeur ne fabrique rien donc marchandise
+04 - A
+05 - B
+06 - A
+07 - A => à verifier
+08 - A Voir 3
+09 - A
+10 - A Une vente est un credit du compte vente
+11 - A
+12 - B Le rbs n'est pas une charge c'est une dette. Les intérêts d'un prêt sont des charges
+13 - A
+14 - B
+15 - A
+16 - B Une dotation aux ammortissements est une charge, la reprise est donc un produit
+17 - B A la fin d'un exercice on peut mettre de l'argent en reserve pour justement pouvoir étaler le reversement des dividendes
+18 - A Le resultat n'est que des ecritures dans les comptes on ne peut donc pas le mettre en banque
+19 - B
+20 - A L'actif = les biens + les creances clients
+21 - B
+22 - A
+23 - B
+24 - B On peut acheter en decembre et payer en janvier (si l'exercice s'arrete fin decembre)
+25 - aucune mais plutot A => question fausse classe 2 = immobilisation or marchandise != immobilisation.
+26 - B Le compte banque est credite au paiement alors que le credit au fournisseur est fait a l'achat
+27 - B Proposition crétine => resultat benificiare = produits > charges
+28 - B Elles sont comptabilisées en coût de marché
+29 - A ne sont les dividendes que les actionnaires ne prennent pas => Ce sont les actionnaires qui decident ce qu'ils prennent et ce qu'ils laissent en réserve
+30 - A
+31 - B Quand on rajoute de l'argent sur un compte banque, cela va au débit. Le credit va dans un compte d'emprunt.
+32 - A L'enregistrement de la charge se fait a la reception de la facture et non au paiment.
+33 - A Le compte de resultat ne trace que les opérations qui génèrent des charges ou des produits. Le bilan est le stock des créances et des dettes.
+34 - B L'augmentation du capital n'a pas de rapport avec le resultat.
+35 - B
+36 - A
+37 - B Le resultat courant comprend en autre les gains des actions achetées par l'entreprise, ce gain fait partie du résultat financier.
+38 - A L'assiette fiscale = resultat d'exploitation + resultat financier + charge exceptionnelle. C'est donc vrai cependant il ne prend pas en compte les deductions d'impots de certaines charges. La question est donc fausse.
+39 - B Le resultat net figure au compte de resultat et au passif du bilan.
+40 - B Cependant la question est fausse vu que toute ecriture au bilan entraine une ecriture au compte de resultat.

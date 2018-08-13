@@ -1,0 +1,41 @@
+1/ d
+2/ a
+3/ b
+4/ b
+5/ c
+6/ d
+7/ c
+8/ a
+9/ a
+10/ c
+11/ d
+12/ c
+13/ d
+14/ b
+15/
+	a/ Pas d'options
+	b/ Pas de fragmentation
+	c/ Longeure totale - IHL = 79 octets
+	d/ Checksum pas calculé
+	e/ 31 routeurs
+16/ Comme en cours
+17/ Adresse par défaut. Utilisé par une machine pour connaitre son adresse ip (protocole dhcp)
+18/ 
+	Pas sûr de cet exo
+	a/ 5 fragments
+	b/ 488 octets (faut que ce soit un multiple de 8) et 48 octets pour le dernier fragment
+	c/ DF=0
+	d/ MF=0
+	e/ 0
+	d/ 488
+19/ RFC 1918
+20/ 
+	1/ 1 DD, 1DC
+	2/ 1 DD, 1 DC
+	3/ 2 DD, 6 DC
+	4/ 1 DD, 3 DC
+	5/ 4 DD, 20 DC
+21/
+	a/ Recuperer l'adresse ip depuis l'adresse MAC.
+	b/ Hub -> couche L1 -> repeteur -> repete sur tous ses ports
+	   Switch -> couche L2 -> commutateur -> commute le message sur le port destinataire
