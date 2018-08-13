@@ -30,11 +30,7 @@ Contribute! :)
 
 * [Algo (prepa)](https://algo-td.infoprepa.epita.fr/)
 * [Wiki prog (prepa)](https://wiki-prog.infoprepa.epita.fr/index.php/EPITA:Programmation)
-* Archi (prepa)
-  * [S1](http://debug-pro.com/epita/s1/en/)
-  * [S2](http://debug-pro.com/epita/s2/en/)
-  * [S3](http://debug-pro.com/epita/s3/en/)
-  * [S4](http://debug-pro.com/epita/s4/en/)
+* Archi (prepa): [S1](http://debug-pro.com/epita/s1/en/) | [S2](http://debug-pro.com/epita/s2/en/) | [S3](http://debug-pro.com/epita/s3/en/) | [S4](http://debug-pro.com/epita/s4/en/)
 
 * [Ionis X](https://ionisx.com/)
 
@@ -42,7 +38,4 @@ Contribute! :)
 
 * [Chronos](http://chronos.epita.net)
 * [EpiMAP](http://map.epita.eu/)
-* News Reader/Notifier for EPITA news
-  * [Website, NG-Notifier](https://ng-notifier.42portal.com/)
-  * [Android application](https://play.google.com/store/apps/details?id=com.bertet.francois.epinotifier&hl=en_US)
-  * [iOS application](https://itunes.apple.com/us/app/epireader/id1244757421?mt=8&ign-mpt=uo%3D4)
+* News Reader/Notifier for EPITA news [Website](https://ng-notifier.42portal.com/) | [Android app](https://play.google.com/store/apps/details?id=com.bertet.francois.epinotifier&hl=en_US) | [iOS app](https://itunes.apple.com/us/app/epireader/id1244757421?mt=8&ign-mpt=uo%3D4)
