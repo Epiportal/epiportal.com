@@ -1,0 +1,102 @@
+﻿Corrigé QCM1
+
+
+
+1) Définition de la qualité :
+ 
+   
+Ensemble des caractéristiques d'un bien ou d'un service qui lui confèrent l'aptitude à satifsaire
+d'une manière continue les besoins et ls attentes des utilisateurs et usagers
+
+
+
+2) steve jobs
+    be a yardstick of quality, some people arent used to ...soyez une reference
+
+
+
+3) assurance qualité:
+    ensemble des actions preetablies systematiques necessaires pour donner la confiance approprié 
+en la qualité du produit ou du service
+
+
+
+4) definition manuel qualité:
+    document enoncant la politique qualité de l'entreprise
+
+
+
+5) definition plan qualité
+    plan enoncant les modes operatoires, 
+les ressoures et la sequences des activités liées a la qualité.
+
+
+
+6) fidélisation du client
+    celà coute 5 fois moins cher que d'en conquérir un
+
+
+
+7) compétitivité:
+    la compétitivité est en fait liée a la  productivité des produits mais pondéré par leur qualité
+
+
+
+8) compétitivté chine, cout de la main d'oeuvre
+    100 fois moindre qu'en france
+
+
+
+9) maroc
+    10 fois moins
+
+
+
+10) USA
+    3 fois
+
+
+
+11) norme iso 9001
+    définit les exigences concernant l'organisation d'un système de gestion de la qualité
+
+
+
+12) version 9001
+    2008
+
+
+
+13) certification iso 9001
+    démarche de validation de la conformité d'un système de gestion à la norme iso 9001
+
+
+
+14) organisme de certification
+    la certification est delivré frequ par AFNOR
+
+
+
+15) CMMI
+    Capability Maturity Model Integration
+
+
+
+16) level CMMI
+    5 levels
+
+
+
+18) controles qualité
+    revues d"étapes et audit tout le long de la vie du projet
+
+
+
+19) revues qualité
+    potent principalement niveau specification , architecture, tests recettes.
+
+
+
+20) mesure qualité
+ elles portent sur des grandeurs projet représentatives de l'accomplissement du projet, 
+(tenu du projet / delai/ indice e satisfaction client / taux d'anomalie / ...)
