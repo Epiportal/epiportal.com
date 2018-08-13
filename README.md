@@ -1,12 +1,14 @@
 # EpiPortal's Resource Repository
 
 You can Pull-Request this repository with:
-* new/updated resources
+* new/updated resources/resources name
 * new/updated folders/folders name
+
+You can send (large) files to EpiPortal's mail address (with a link in the mail, because attached files larger than 10Mb are not supported).
 
 ## Limitations
 
-Big files larger than 50Mb are not allowed in this repository due to [GitHub file size restrictions](https://help.github.com/articles/working-with-large-files/)
+Big files larger than 50Mb are not allowed in this repository due to [GitHub file size restrictions](https://help.github.com/articles/working-with-large-files/).
 
 If you add lots of files, you can add big files to the `.gitignore` with the following command:
 
