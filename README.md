@@ -18,7 +18,7 @@ You can send (large) files to EpiPortal's mail address (with a link in the mail,
 find . -size +50MB | sed 's|^\./||g' | cat >> .gitignore; awk '!NF || !seen[$0]++' .gitignore
 ```
 
-4. 
+4. Copyright files should not be pushed to this repository but can be sent to EpiPortal's mail adress. 
 
 ## One more word
 
