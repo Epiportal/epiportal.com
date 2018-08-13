@@ -1,0 +1,45 @@
+Il est important de souligner que la plupart des réponses ci-dessous
+ne sont pas certaines à 100%. Si vous souhaitez modifier une réponse,
+faites-le remarquer par une flèche (genre A -> B), et accompagnez-la
+réponse d'une petite explication SVP.
+
+Q1: C
+Q2: D (MVNO pour les opérateurs virtuels)
+Q3: A -> B (venant d'un prof de tcom.. sinon ?) Explication du prof : Mobile = T'es à Epita, connecté au wifi, tu mates une vidéo sur Youtube, tu peux bouger sur le campus, pas plus. Nomade = T'es sur ton téléphone, en 3G, tu mate la vidéo Youtube, tu peux aller partout.
+Q4: D
+Q5: A (je pense) -> D (au US c'est du 56kb/s mais en france c'est 64kb/s) -> A (Cf cours Rt.pdf : "débit fixe orange = 56k")
+Q6: A
+Q7: D
+Q8: B -> A http://www.anthonybusson.fr/index_fichiers/mesh.htm
+Q9: D
+Q10: A
+Q11: A
+Q12: A 
+Q13: B
+Q14: B (ou A, pas facile de répondre)
+Q15: D
+Q16: C   -> B ?
+Q17: C (D en fin 2012 avec 70,5 millions d'abonnŽs)
+Q18: B
+Q19: A (instinctivement)
+Q20: A
+Q21: B
+Q22: B (la LTE est de la 3.9G) -> A (depuis décembre 2010  Tin les mecs: s'appeler != d'être, OK? )
+Q23: A
+Q24: A
+Q25: B (supérieure il me semble)
+Q26: B
+Q27: B CDMA-2000 (Code Division Multiple Access) est une evolution du système CDMAOne utilisé aux Etats-Unis d'Amérique
+Q28: A
+Q29: A
+Q30: A
+Q31: B
+Q32: A wikipedia: "La norme 802.11b est la norme la plus répandue en base installée actuellement"
+Q33: A
+Q34: A? -> article sur le site du CSA pas trs explicite
+Q35: A Cf 2min_trse
+Q36: B
+Q37: B
+Q38: ????????
+Q39: B
+Q40: A (Debitel je pense, de 1991 à 2004) -> B (c'est un MVNO qui n'a pas de lien historique avec les telecoms) -> A (PTT)
