@@ -55,7 +55,7 @@ Contribute! :)
 ### Administratif/Notes/Planning/...
 
 * [Chronos](http://chronos.epita.net) (Planning)
-* [EpiMAP](http://map.epita.eu/) (Cartes des locaux)
+* [Epimap](http://map.epita.eu/) (Cartes des locaux)
 * [Pegasus](https://prepa-epita.helvetius.net/pegasus) (Notes)
 
 ### Associations
