@@ -1,3 +1,7 @@
+Depuis peu, il vous est possible de contribuer à EpiPortal sur Github: [https://github.com/Epiportal/epiportal.com](https://github.com/Epiportal/epiportal.com).
+
+L'adresse mail est toujours fonctionnelle : c o n t a c t { at ] e p i p o r t a l . c o m 
+
 Vous pouvez nous envoyez vos scans de cours/annales/corrigés de préférence sous format PDF :)
-Pour uploader vos fichier, utilisez un site cool comme http://linx.li
+Dans le cas d'une contribution par email avec un gros pdf, utilisez un site cool comme http://linx.li pour nous envoyer un link plutôt qu'une p.j.
 Merci à tous et bon courage ;)
