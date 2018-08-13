@@ -28,14 +28,54 @@ Contribute! :)
 
 ## EPITA related links
 
-* [Algo (prepa)](https://algo-td.infoprepa.epita.fr/)
-* [Wiki prog (prepa)](https://wiki-prog.infoprepa.epita.fr/index.php/EPITA:Programmation)
-* Archi (prepa): [S1](http://debug-pro.com/epita/s1/en/) | [S2](http://debug-pro.com/epita/s2/en/) | [S3](http://debug-pro.com/epita/s3/en/) | [S4](http://debug-pro.com/epita/s4/en/)
+### Prepa
 
-* [Ionis X](https://ionisx.com/)
+* [Algo](https://algo-td.infoprepa.epita.fr/)
+* [Wiki prog](https://wiki-prog.infoprepa.epita.fr/index.php/EPITA:Programmation)
+* Archi [S1](http://debug-pro.com/epita/s1/en/) | [S2](http://debug-pro.com/epita/s2/en/) | [S3](http://debug-pro.com/epita/s3/en/) | [S4](http://debug-pro.com/epita/s4/en/)
+
+### Autres ressources
 
 * [Mastercorp](http://mastercorp.epita.eu)
+* [Ionis X](https://ionisx.com/)
 
-* [Chronos](http://chronos.epita.net)
-* [EpiMAP](http://map.epita.eu/)
+### Intranets
+
+* [IntraBocal](https://console.bocal.org/#/) (Comptes EPITA, Tickets, Lien vers MSDNAA)
+* [Intra ACDC](https://acdc.cri.epita.net/)
+* [Intra CRI](https://intra.cri.epita.net/)
+* [Odysee](http://odyssee.epita.fr/) (Séjour à l'international)
+* [Intracom](http://intracom.epita.fr/) (JPO...)
+* [Relations Entreprises](https://epita.net/) (Relations entreprises)
+
+* [EPITA Anciens](http://www.epita-anciens.fr/)
+
+
+### Administratif/Notes/Planning/...
+
+* [Chronos](http://chronos.epita.net) (Planning)
+* [EpiMAP](http://map.epita.eu/) (Cartes des locaux)
+* [Pegasus](https://prepa-epita.helvetius.net/pegasus) (Notes)
+
+### Associations
+
+* [BDE NOVA](https://bde-epita.fr/)
+* [GConfs](https://gconfs.fr/)
+
+
+### Laboratoires
+
+* [LRDE](https://www.lrde.epita.fr)
+* [LSE](https://lse.epita.fr/)
+
+
+### Applications et autres
+
 * News Reader/Notifier for EPITA news [Website](https://ng-notifier.42portal.com/) | [Android app](https://play.google.com/store/apps/details?id=com.bertet.francois.epinotifier&hl=en_US) | [iOS app](https://itunes.apple.com/us/app/epireader/id1244757421?mt=8&ign-mpt=uo%3D4)
+
+
+### Old
+
+* [FAQ EPITA](https://faq.epita.eu/)
+* [EPIFAQ](http://www.zorinaq.com/epifaq/epifaq-1.1.3-2003-01-09.html)
+* [Doc EPITA](http://canartichaut.kawie.fr/epita/)
